@@ -3,10 +3,10 @@
   "description": "",
   "main": "index.js",
   "authors": [
-    "Zoe Ames <zoeames@gmail.com>"
+    "Alicia Miceli <akb.miceli@gmail.com>"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/zoeames/NSS-evening-class-curriculum",
+  "homepage": "https://github.com/aliciamiceli/promises",
   "ignore": [
     "**/.*",
     "node_modules",
